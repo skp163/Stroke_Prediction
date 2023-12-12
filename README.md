@@ -14,7 +14,7 @@ Predicting brain stroke by given features in dataset.
 ***Number of Features : 11*** <br/>
 ***Sample size: 4088***
 
-### Stepas and Models Used:
+### Steps and Models Used:
 1. Data Loading and Cleaning
 2. Data Preprocessing Using Standard Scaler
 3. Modified Samplling by Oversampling
